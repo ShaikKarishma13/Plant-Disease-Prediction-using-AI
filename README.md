@@ -88,6 +88,9 @@ Output-1:
 ![Image](https://github.com/user-attachments/assets/c1dd7197-4794-4010-9c0f-9d6fe33abc12)
 
 Output-2:
+![Image](https://github.com/user-attachments/assets/28dbf91a-168d-43e4-817d-c05d717d9adf)
+
+
 
 
 
