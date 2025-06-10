@@ -93,6 +93,8 @@ Output-2:
 #Sample Input-3:
 ![Image](https://github.com/user-attachments/assets/ac1f9a8c-e075-426c-b02f-195629e58ed4)
 
+Output-3:
+
 
 
 
