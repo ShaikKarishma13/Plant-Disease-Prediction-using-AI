@@ -94,9 +94,7 @@ Output-2:
 ![Image](https://github.com/user-attachments/assets/ac1f9a8c-e075-426c-b02f-195629e58ed4)
 
 Output-3:
-
-
-
+![Image](https://github.com/user-attachments/assets/c0ceffcd-49ef-43b5-91c9-92def4b5bdb9)
 
 
 
