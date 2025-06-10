@@ -11,13 +11,14 @@ MICROSOFT EDUNET FOUNDATION AI PROJECT
 
 ## 🧠 Project Overview
 
-This project is an AI-based image classification tool designed to detect plant diseases using deep learning. It allows users to upload an image of a plant leaf, and the trained model will predict the disease class along with a confidence score. The tool is built using TensorFlow and Keras, and it can run easily on Google Colab without requiring any setup. The system is capable of handling images in any file format and automatically processes them for accurate prediction.
-
+This project is an AI-based image classification tool designed to detect plant diseases using deep learning. It allows users to upload an image of a plant leaf as an input, and the trained model will predict the disease class affecting it ,if any, along with a confidence score. The tool is built using TensorFlow and Keras, It supports various image formats and automatically preprocesses the image to make accurate predictions.and designed for simplicity ,it can run easily on Google Colab without any need for local  setup.The project is ideal for farmers, students, researchers, and gardening enthusiasts looking for a quick and reliable way to detect plant diseases.
+ 
 ---
 
 ## 💡 Problem Statement
 
-Agriculture is often affected by plant diseases that reduce yield and crop quality. Early detection is critical but manual identification is time-consuming, expensive, and prone to error. This project solves this problem using AI by building an image-based disease prediction model. Farmers, students, or researchers can simply upload a leaf image and receive an instant disease classification, helping in early detection and prevention.
+Agriculture is often affected by plant diseases that reduce yield and crop quality.Diseases in plants reduce agricultural productivity and often go unnoticed until it's too late. Early detection is critical but manual identification is time-consuming, expensive, and prone to error and not always accessible to all. With increasing access to smartphones and the internet, an automated, AI-powered solution is the need of the hour. This project solves that by offering an easy-to-use tool where users can simply upload an image and get an instant diagnosis using a pre-trained CNN model.Farmers, students, or researchers can simply upload a leaf image and receive an instant disease classification, helping in early detection and prevention.
+
 
 ---
 
@@ -54,10 +55,11 @@ Agriculture is often affected by plant diseases that reduce yield and crop quali
 
 ## 🧪 Example Use Cases
 
-- Predicting diseases like *Leaf Blight, **Rust, **Mildew*, etc.
-- Building a mobile/web app for plant disease diagnostics
-- Agricultural research and smart farming tools
-
+- Predicting diseases like *Leaf Blight, **Rust, **Mildew*,*headcabbage*, etc.
+- Apple Black Rot
+- Potato early blight
+- Tomato laef mold
+  
 ---
 
 ## 📌 Note
