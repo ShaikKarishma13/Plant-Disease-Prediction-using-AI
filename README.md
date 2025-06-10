@@ -1,0 +1,2 @@
+# Plant-Disease-Prediction-using-AI
+MICROSOFT EDUNET FOUNDATION AI PROJECT
