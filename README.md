@@ -85,6 +85,9 @@ Output-1:
 ![Image](https://github.com/user-attachments/assets/c294551d-4050-4316-9c77-1c826b3c6a6b)
 
 #Sample Input-2:
+![Image](https://github.com/user-attachments/assets/c1dd7197-4794-4010-9c0f-9d6fe33abc12)
+
+Output-2:
 
 
 
