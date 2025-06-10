@@ -78,6 +78,9 @@ Agriculture is often affected by plant diseases that reduce yield and crop quali
 
 ---
 
-#sample input-1:
+#Sample Input-1:
 ![Image](https://github.com/user-attachments/assets/93a414ca-5380-43ad-a47d-c94a70aa62ef)
+
+Output-1:
+
 
